@@ -1,0 +1,11 @@
+[/]
+arc-menu-placement='DTP'
+available-placement=[false, true, false]
+custom-menu-button-icon='/home/grayhat/Pictures/logo.png'
+custom-menu-button-icon-size=27.0
+enable-custom-arc-menu=true
+enable-menu-button-arrow=false
+menu-button-icon='Custom_Icon'
+menu-hotkey='Undefined'
+pinned-app-list=['Firefox Web Browser', '', 'firefox.desktop', 'Terminal', '', 'org.gnome.Terminal.desktop', 'ArcMenu Settings', 'ArcMenu_ArcMenuIcon', 'gnome-extensions prefs arcmenu@arcmenu.com']
+prefs-visible-page=0
