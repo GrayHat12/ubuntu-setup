@@ -1,6 +1,6 @@
 # Setup
 
-* Follow the instructions in [SETUP](SETUP.md) for the initial setup.
+* Follow the instructions in [SETUP](STEPS.md) for the initial setup.
 
 ## Configure arcmenu
 * Import settings from [ArcMenu-settings-file](./arcmenu/settings)
